@@ -1,6 +1,6 @@
 # FinalProject
 
-## firebase link
+## Firebase page link
 
-  fianl-project-23419.web.app
-  fianl-project-23419.firebaseapp.com
+  fianl-project-23419.web.app/
+  fianl-project-23419.firebaseapp.com/
