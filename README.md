@@ -1,4 +1,4 @@
-# FinalProject
+# Software Studio 2023 Spring FinalProject
 
 ## Firebase page link
   
